@@ -1,4 +1,4 @@
-# 
+# Código abierto 3D Path Planning AI extensiones. Con IA en la nube y detección de objetos — optimizado para el máximo rendimiento.
 
 
 
